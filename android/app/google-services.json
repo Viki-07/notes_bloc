@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018061691120",
+    "project_id": "notesbloc-be0d2",
+    "storage_bucket": "notesbloc-be0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018061691120:android:13de94b0fce642e1340a35",
+        "android_client_info": {
+          "package_name": "com.example.notes_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018061691120-mq3f81qg84f77eqju2c0fo6c5se8aca6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuxa6FpjSCJxC4VrzImExASd12Q_iyOwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018061691120-mq3f81qg84f77eqju2c0fo6c5se8aca6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
